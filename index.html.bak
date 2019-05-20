@@ -173,11 +173,9 @@
                     <div class="allshow" style="display:none;" id="tab-news-content">
                         <hr class="star-primary">
                             <h2>News</h2>
-			    <p>17 May 2019: Shengchen Li will give a seminar in University of Surrey on 22nd May 2019. </p>
-                            <p>14 May 2019: Yuanbo Hou has presented his paper <a target="_blank" href="https://ieeexplore.ieee.org/document/8683627">"Sound Event Detection with Sequentially Labelled Data based on Connectionist Temporal Classification and Unsupervised Clustering"</a> on <a href="https://2019.ieeeicassp.org">ICASSP 2019.</a></p>
-                            <p>09 May 2019: <a target="_blank" href="students/zhsj.html">ZHOU Songjiang</a> has successfully defended his dissertation with usual minor corrections.</p>
                             <p>23 Apr 2019: Students are trained for internal system and website build.</p>
-			    <p>20 Apr 2019: New student handbook has been released.</p>
+							<p>20 Apr 2019: New student handbook has been released</p>
+                        
                     </div>
                 </div>
             </div>
@@ -197,7 +195,6 @@
                         <h2>Selected Publications <a href="publications.html" class="btn btn-primary">All Publications &raquo;</a></h2>
                         <ul>
                             <li><span class="label label-success">ICASSP 2019</span> <a target="_blank" href="https://ieeexplore.ieee.org/document/8683627">"Sound Event Detection with Sequentially Labelled Data based on Connectionist Temporal Classification and Unsupervised Clustering"</a>, Yuanbo Hou, Qiuqiang Kong, Shengchen Li, Mark D. Plumbley, Proceedings of the <b>44th IEEE International Conference on Acoustic, Speech and Signal Processing (ICASSP'19)</b>, IEEE Signal Processing Society, Brighton, United Kingdom, 12-17 May 2019. </li>
-                            <li><span class="label label-success">Application of Electronic Technique</span> <a target="_blank" href="http://www.dzjy.cbpt.cnki.net/WKE/WebPublication/index.aspx?mid=DZJY">"A low power and high speed decoder design based on FPGA"</a>, Songjiang Zhou, Shengchen Li, Ming Liu, <b>Application of Electronic Technique</b>, 2018,44(04):27-32.</li>
                         <p><a href="publications.html" class="btn btn-primary">All Publications &raquo;</a>
                         </p>
                         </ul>
@@ -268,12 +265,10 @@
                         <h2>Students</h2>
                         <ul>
                             <li><span class="label label-success">MPhil2016</span> <a target="_blank" href="students/wj.html">WANG Jun</a> works on algorithm simplification with SVD decomposition.</li>
-                            <li><span class="label label-success">PhD2018</span> <a target="_blank" href="students/jyj.html">JING Yinji</a> works on automated music composition
-			                <li><span class="label label-success">MPhil2018</span> <a target="_blank" href="students/rcx.html">REN Chunxia</a> works on classification of acoustic scenes.</li>
-                            <li><span class="label label-success">MEng2017</span> <a target="_blank" href="students/lzm.html">LI Ziming</a> works on music similarity research</li>
-							<li><span class="label label-success">MEng2017</span> <a target="_blank" href="students/zhy.html">Zhang Hanyu</a> works on feature extraction based on wavelet transform</li>
-							<li><span class="label label-success">MPhil2016</span> <a target="_blank" href="students/zhsj.html">ZHOU Songjiang</a> works on implementation of deep learning algorithms based on FPGA.</li>
-						</ul>
+                            <li><span class="label label-success">PhD2018</span> <a target="_blank" href="students/jyj.html">JING Yinji</a> works on automated music composition</li>
+							<li><span class="label label-success">MPhil2017</span> <a target="_blank" href="students/jyj.html">Zhang Hanyu</a> works on feature extraction based on wavelet transform</li>
+
+                        </ul>
                     </div>
                 </div>
             </div>
